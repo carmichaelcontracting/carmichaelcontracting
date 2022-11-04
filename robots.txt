@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://carmichaelcontracting.github.io/sitemap.xml
